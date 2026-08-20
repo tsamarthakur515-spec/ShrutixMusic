@@ -11,7 +11,7 @@ API_ID = int(getenv("39005479"))
 API_HASH = getenv("c2e7265b2e96025adcc4731c2c1e5ba5")
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = getenv("8357466207:AAH8uOVpXPyiHrzoNJTt2hJqES8gWjPGuQA")
+BOT_TOKEN = getenv("8932132745:AAHR3pHt3OobB0HTZmQ4Stim_IMAP67YIsA")
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("mongodb+srv://nubcoders:nubcoders@music.8rxlsum.mongodb.net/?retryWrites=true&w=majority&appName=music")
@@ -19,10 +19,10 @@ MONGO_DB_URI = getenv("mongodb+srv://nubcoders:nubcoders@music.8rxlsum.mongodb.n
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 60))
 
 # Chat id of a group for logging bot's activities
-LOGGER_ID = int(getenv("-1003807388230"))
+LOGGER_ID = int(getenv("--1003468477782"))
 
 # Get this value from @FallenxBot on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", 7724452546))
+OWNER_ID = int(getenv("OWNER_ID", 8841848847))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
